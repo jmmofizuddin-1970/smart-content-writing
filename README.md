@@ -41,6 +41,8 @@ Topics include:
 - High-Converting CPA Campaigns
 - Best Affiliate Marketing Tools
 
+  - [AliExpress Affiliate Marketing: A Beginner’s Guide](aliexpress-affiliate-marketing-guide.md)
+
 ## SEO Tools
 
 - Ahrefs vs Moz
